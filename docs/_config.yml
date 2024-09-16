@@ -1,0 +1,18 @@
+# Book settings
+title: AlgorithmicInsiderTraderDetectionTool
+author: Shatakshi Gaur
+logo: docs/images/logo.jpg
+
+repository:
+  url: https://github.com/shatakshigaur/Algorithmic-Insider-Trading-Detection-Tool
+  branch: main
+
+html:
+  home_page_in_navbar: false
+  extra_navbar: ""
+  use_edit_page_button: true
+  use_repository_button: true
+  use_issues_button: true
+  baseurl:https://github.com/shatakshigaur/Algorithmic-Insider-Trading-Detection-Tool
+
+only_build_toc_files: true
